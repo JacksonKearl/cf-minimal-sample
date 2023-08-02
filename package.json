@@ -1,0 +1,17 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudflare/workers-types": "^4.20230801.0",
+    "preact": "^10.16.0",
+    "vite": "^4.4.8",
+    "wrangler": "^3.4.0"
+  }
+}
